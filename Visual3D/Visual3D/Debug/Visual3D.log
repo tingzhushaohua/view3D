@@ -1,0 +1,6 @@
+﻿  View3D.cpp
+d:\用户目录\我的文档\visual studio 2015\projects\visual3d\visual3d\view3d.cpp(7): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+  Show3DPoint.cpp
+  正在生成代码...
+  Visual3D.vcxproj -> d:\用户目录\我的文档\visual studio 2015\Projects\Visual3D\Debug\Visual3D.exe
+  Visual3D.vcxproj -> d:\用户目录\我的文档\visual studio 2015\Projects\Visual3D\Debug\Visual3D.pdb (Full PDB)
